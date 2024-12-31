@@ -1,0 +1,45 @@
+C:\Users\trans\RiderProjects\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.AssemblyReference.cache
+C:\Users\trans\RiderProjects\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.CoreCompileInputs.cache
+C:\Users\trans\RiderProjects\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.dll
+C:\Users\trans\RiderProjects\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.pdb
+C:\Users\trans\RiderProjects\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.dll
+C:\Users\trans\RiderProjects\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.xml
+C:\Users\trans\RiderProjects\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.CopyComplete
+C:\Users\trans\RiderProjects\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.dll
+C:\Users\trans\RiderProjects\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.pdb
+E:\Git\TU_Math3D\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.dll
+E:\Git\TU_Math3D\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.pdb
+E:\Git\TU_Math3D\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.dll
+E:\Git\TU_Math3D\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.pdb
+E:\Git\TU_Math3D\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.dll
+E:\Git\TU_Math3D\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.xml
+E:\Git\TU_Math3D\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.AssemblyReference.cache
+E:\Git\TU_Math3D\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.CoreCompileInputs.cache
+E:\Git\TU_Math3D\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnit.EB2D147E.Up2Date
+D:\Git\TU_matrix_quaternion\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.dll
+D:\Git\TU_matrix_quaternion\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.pdb
+D:\Git\TU_matrix_quaternion\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.dll
+D:\Git\TU_matrix_quaternion\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.xml
+D:\Git\TU_matrix_quaternion\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.AssemblyReference.cache
+D:\Git\TU_matrix_quaternion\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.CoreCompileInputs.cache
+D:\Git\TU_matrix_quaternion\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.CopyComplete
+D:\Git\TU_matrix_quaternion\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.dll
+D:\Git\TU_matrix_quaternion\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.pdb
+C:\Users\ll212991\Downloads\TU_Math3D-master\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.dll
+C:\Users\ll212991\Downloads\TU_Math3D-master\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.pdb
+C:\Users\ll212991\Downloads\TU_Math3D-master\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.dll
+C:\Users\ll212991\Downloads\TU_Math3D-master\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.xml
+C:\Users\ll212991\Downloads\TU_Math3D-master\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.AssemblyReference.cache
+C:\Users\ll212991\Downloads\TU_Math3D-master\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.CoreCompileInputs.cache
+C:\Users\ll212991\Downloads\TU_Math3D-master\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnit.EB2D147E.Up2Date
+C:\Users\ll212991\Downloads\TU_Math3D-master\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.dll
+C:\Users\ll212991\Downloads\TU_Math3D-master\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.pdb
+C:\Users\ll212991\Downloads\TU_Matrices_LE LANN_Leo\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.dll
+C:\Users\ll212991\Downloads\TU_Matrices_LE LANN_Leo\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\TestUnitaireMath3D.pdb
+C:\Users\ll212991\Downloads\TU_Matrices_LE LANN_Leo\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.dll
+C:\Users\ll212991\Downloads\TU_Matrices_LE LANN_Leo\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\bin\Debug\nunit.framework.xml
+C:\Users\ll212991\Downloads\TU_Matrices_LE LANN_Leo\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.AssemblyReference.cache
+C:\Users\ll212991\Downloads\TU_Matrices_LE LANN_Leo\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.csproj.CoreCompileInputs.cache
+C:\Users\ll212991\Downloads\TU_Matrices_LE LANN_Leo\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnit.EB2D147E.Up2Date
+C:\Users\ll212991\Downloads\TU_Matrices_LE LANN_Leo\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.dll
+C:\Users\ll212991\Downloads\TU_Matrices_LE LANN_Leo\TU_Math3D-master\TestUnitaireMath3D\TestUnitaireMath3D\obj\Debug\TestUnitaireMath3D.pdb
